@@ -26,7 +26,7 @@
 #### Sample code projects demonstrating something
 * [WinUI3 Windows](https://github.com/smourier/WinUI3Windows) - A WinUI3 application that opens another Xaml window running on another thread.
 * [Win32 Shows WinUI3](https://github.com/smourier/Win32ShowsWinUI3) - A simple Win32 desktop classic application (in C++) that can show WinUI3 elements (in .NET C#).
-* [XPS & PDF Print Samples)(https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
+* [XPS &and; PDF Print Samples)(https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
 * [Example Widget Provider](https://github.com/smourier/ExampleWidgetProviderAot) - ExampleWidgetProvider project in .NET 10 AOT
 * [Excel Out-Of-Process RDT Server](https://github.com/smourier/ExcelOutOfProcessRdtServer) - An Excel out-of-process Real-Time Data (RTD) server written in .NET Core.
 
