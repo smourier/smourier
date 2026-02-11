@@ -9,7 +9,8 @@
 * [Wic .NET](https://github.com/smourier/WicNet) - .NET interop classes for WIC (Windows Imaging Component), Direct2D and DirectWrite. With .NET 10+ AOT publishing support.
 * [WebView2 AOT](https://github.com/smourier/WebView2Aot) - WebView2 .NET AOT publishing compatible bindings independent from WinForms or WPF.
 * [ActiveN](https://github.com/smourier/ActiveN) - A lightweight framework for building classic COM components and OLE/ActiveX controls in modern fully AOT-compatible .NET, with registration-ready deployment.
-* [AOT Net Com Host](https://github.com/smourier/AotNetComHost) - A development-time "thunk" dll tool that enable COM support (registration, etc.) for not-yet published .NET AOT COM objects for easier debugging
+* [AOT Net Com Host](https://github.com/smourier/AotNetComHost) - A development-time "thunk" dll tool that enable COM support (registration, etc.) for not-yet published .NET AOT COM objects for easier debugging.
+* [JS Runtime AOT](https://github.com/smourier/JsRuntimeAot) - A .NET9+ AOT compatible wrapper over the Microsoft "Chakra" JavaScript engine (aka JScript9.dll). => It's just one 2500 lines of C# file that allows you to run Javascript code from .NET.
 
 #### Windows 11 Virtual Camera
 * [VCam Sample](https://github.com/smourier/VCamSample) - A Windows 11 Virtual Camera sample code in C++.
@@ -24,6 +25,7 @@
 * [Sheet Reader](https://github.com/smourier/SheetReader) - A simple CSV, XLSX or JSON data sheet reader, and a WPF Sheet Control to display the tabular data.
 
 #### Sample code projects demonstrating something
+* [Winforms Sandbox](https://github.com/smourier/WinformsSandbox) - A sample Windows Forms .NET app that hosts the real and only Windows Sandbox.
 * [WinUI3 Windows](https://github.com/smourier/WinUI3Windows) - A WinUI3 application that opens another Xaml window running on another thread.
 * [Win32 Shows WinUI3](https://github.com/smourier/Win32ShowsWinUI3) - A simple Win32 desktop classic application (in C++) that can show WinUI3 elements (in .NET C#).
 * [XPS & PDF Print Samples](https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
@@ -34,7 +36,9 @@
 
 #### Tools
 * [Doxie](https://github.com/smourier/Doxie) - A search engine, local to your machine, focused on source (or textual information) code (based on SQLNado and Lucene .NET).
+* [App Settings Studio](https://github.com/smourier/AppSettingsStudio) - A GUI for centralizing .NET appsettings.json management. Provides a unified view to edit, validate, and apply changes across multiple projects and/or binaries, including WSL on Windows, with support for live updates.
 * [Jump List Explorer](https://github.com/smourier/JumpListExplorer) - A (forensics) tool to view and remove Windows JumpLists.
+* [Device Explorer](https://github.com/smourier/DeviceExplorer) - A tool that displays the hardware attached to a Windows computer, similar to Device Manager. It also shows Association EndPoints dynamically (Bluetooth endpoints, UPnP, etc.) and Bluetooth LE advertisements.
 * [Trace Spy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
 * [Traces To CSV](https://github.com/smourier/TracesToCsv) - An ASP.NET Core app that continuously digest traces sent from HTTP(S) clients and creates csv files from them.
 * [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
