@@ -23,16 +23,21 @@
 * [Zero-Dep JSON](https://github.com/smourier/ZeroDepJson) - A .NET Json parser in one .cs file, with zero dependencies.
 * [ProxyServer](https://github.com/smourier/ProxyServer) - A simple proxy server written in C#.
 * [Sheet Reader](https://github.com/smourier/SheetReader) - A simple CSV, XLSX or JSON data sheet reader, and a WPF Sheet Control to display the tabular data.
+* [Futese](https://github.com/smourier/Futese) - A simple in-memory persistable full text search engine in less than 1000 lines of C# code.
+* [](https://github.com/smourier/TreeViewList) - 
 
 #### Sample code projects demonstrating something
 * [Winforms Sandbox](https://github.com/smourier/WinformsSandbox) - A sample Windows Forms .NET app that hosts the real and only Windows Sandbox.
 * [WinUI3 Windows](https://github.com/smourier/WinUI3Windows) - A WinUI3 application that opens another Xaml window running on another thread.
 * [Win32 Shows WinUI3](https://github.com/smourier/Win32ShowsWinUI3) - A simple Win32 desktop classic application (in C++) that can show WinUI3 elements (in .NET C#).
+* [WinUI3 Notify Icon](https://github.com/smourier/WinUI3NotifyIcon) - A WinUI3 application that has a notify icon in the system tray. Once the icon in the notification has been clicked, a full WinUI3's Window is displayed.
 * [XPS & PDF Print Samples](https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
 * [Example Widget Provider](https://github.com/smourier/ExampleWidgetProviderAot) - ExampleWidgetProvider project in .NET 10 AOT
 * [Excel Out-Of-Process RDT Server](https://github.com/smourier/ExcelOutOfProcessRdtServer) - An Excel out-of-process Real-Time Data (RTD) server written in .NET Core.
 * [Reg-free .NET COM](https://github.com/smourier/RefreeNetCom) - A .NET 10+ registry-free In-Process COM server.
 * [Reg-free .NET COM Server](https://github.com/smourier/RegfreeNetComServer) - A .NET 10+ registry-free Out-Of-Process COM server that also demonstrates 32-64 bit communication.
+* [Out-Of-Process COM Server](https://github.com/smourier/OutOfProcessCOMServer) - An ATL C++ Out-Of-Process COM server and clients (C++, .NET, VBscript) sample.
+* [MF Decode H264](https://github.com/smourier/MFDecodeH264) - A C++ console application code that decodes an H264 raw file using Media Foundation's H.264 Video Decoder.
 
 #### Tools
 * [Doxie](https://github.com/smourier/Doxie) - A search engine, local to your machine, focused on source (or textual information) code (based on SQLNado and Lucene .NET).
@@ -44,5 +49,9 @@
 * [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
 * [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
 * [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
+* [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
 * [Binding Redirect Generator](https://github.com/smourier/BindingRedirectGenerator) - A tool to generate binding redirects from assemblies in a given path (for .NET Framework).
 * [Normalize Line Endings](https://github.com/smourier/NormalizeLineEndings) - A tool to normalize files line ending.
+* [VIM 2 VHD](https://github.com/smourier/VIM2VHD) - Pure C# version of VIM2VHD.
+* [PDF Text Mask](https://github.com/smourier/PdfTextMask) - A C# tool to mask (and destroy from original text) portions of text in a document.
+* [D3D12 SDK Version Patcher](https://github.com/smourier/D3D12SDKVersionPatcher) - A tool that can patch a .exe file exports to enabled DirectX 12 Agility SDK versioning
