@@ -1,6 +1,6 @@
 ## Some of the projects you can find here:
 
-#### .NET AOT publishing projects:
+#### .NET AOT publishing projects
 
 * [DirectN AOT](https://github.com/smourier/DirectNAOT) - A DirectN (see below) AOT compatible version. Only for .NET Core 9 and beyond.
 * [DirectN](https://github.com/smourier/DirectN) - Direct interop Code for .NET Framework, .NET Core and .NET 5+ : DXGI, WIC, DirectX 9 to 12, Direct2D, Direct Write, Direct Composition, Media Foundation, WASAPI, CodecAPI, GDI, Spatial Audio, DVD, Windows Media Player, UWP DXInterop, WinUI3, etc. This project is legacy, it should only be used if .NET Framework is a target.
@@ -29,12 +29,16 @@
 * [XPS & PDF Print Samples](https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
 * [Example Widget Provider](https://github.com/smourier/ExampleWidgetProviderAot) - ExampleWidgetProvider project in .NET 10 AOT
 * [Excel Out-Of-Process RDT Server](https://github.com/smourier/ExcelOutOfProcessRdtServer) - An Excel out-of-process Real-Time Data (RTD) server written in .NET Core.
+* [Reg-free .NET COM](https://github.com/smourier/RefreeNetCom) - A .NET 10+ registry-free In-Process COM server.
+* [Reg-free .NET COM Server](https://github.com/smourier/RegfreeNetComServer) - A .NET 10+ registry-free Out-Of-Process COM server that also demonstrates 32-64 bit communication.
 
 #### Tools
 * [Doxie](https://github.com/smourier/Doxie) - A search engine, local to your machine, focused on source (or textual information) code (based on SQLNado and Lucene .NET).
+* [Jump List Explorer](https://github.com/smourier/JumpListExplorer) - A (forensics) tool to view and remove Windows JumpLists.
 * [Trace Spy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
 * [Traces To CSV](https://github.com/smourier/TracesToCsv) - An ASP.NET Core app that continuously digest traces sent from HTTP(S) clients and creates csv files from them.
 * [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
 * [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
 * [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
 * [Binding Redirect Generator](https://github.com/smourier/BindingRedirectGenerator) - A tool to generate binding redirects from assemblies in a given path (for .NET Framework).
+* [Normalize Line Endings](https://github.com/smourier/NormalizeLineEndings) - A tool to normalize files line ending.
