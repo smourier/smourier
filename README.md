@@ -24,7 +24,6 @@
 * [ProxyServer](https://github.com/smourier/ProxyServer) - A simple proxy server written in C#.
 * [Sheet Reader](https://github.com/smourier/SheetReader) - A simple CSV, XLSX or JSON data sheet reader, and a WPF Sheet Control to display the tabular data.
 * [Futese](https://github.com/smourier/Futese) - A simple in-memory persistable full text search engine in less than 1000 lines of C# code.
-* [](https://github.com/smourier/TreeViewList) - 
 
 #### Sample code projects demonstrating something
 * [Winforms Sandbox](https://github.com/smourier/WinformsSandbox) - A sample Windows Forms .NET app that hosts the real and only Windows Sandbox.
