@@ -50,6 +50,7 @@
 * [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
 * [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
 * [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
+* [Auto Close Folder](https://github.com/smourier/AutoCloseFolder) - A Visual Studio extension that automatically closes folders when the last document from it is closed.
 * [Binding Redirect Generator](https://github.com/smourier/BindingRedirectGenerator) - A tool to generate binding redirects from assemblies in a given path (for .NET Framework).
 * [Normalize Line Endings](https://github.com/smourier/NormalizeLineEndings) - A tool to normalize files line ending.
 * [VIM 2 VHD](https://github.com/smourier/VIM2VHD) - Pure C# version of VIM2VHD.
