@@ -25,7 +25,7 @@
 * [Sheet Reader](https://github.com/smourier/SheetReader) - A simple CSV, XLSX or JSON data sheet reader, and a WPF Sheet Control to display the tabular data.
 * [Futese](https://github.com/smourier/Futese) - A simple in-memory persistable full text search engine in less than 1000 lines of C# code.
 
-#### Sample code projects demonstrating something
+#### Sample code projects demonstrating something (WinUI3, COM, etc.)
 * [Winforms Sandbox](https://github.com/smourier/WinformsSandbox) - A sample Windows Forms .NET app that hosts the real and only Windows Sandbox.
 * [WinUI3 Windows](https://github.com/smourier/WinUI3Windows) - A WinUI3 application that opens another Xaml window running on another thread.
 * [Win32 Shows WinUI3](https://github.com/smourier/Win32ShowsWinUI3) - A simple Win32 desktop classic application (in C++) that can show WinUI3 elements (in .NET C#).
