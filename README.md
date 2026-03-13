@@ -46,6 +46,7 @@
 * [Trace Spy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
 * [Traces To CSV](https://github.com/smourier/TracesToCsv) - An ASP.NET Core app that continuously digest traces sent from HTTP(S) clients and creates csv files from them.
 * [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
+* [ASCII Folder](https://github.com/smourier/AsciiFolder) - A console tool that generates an ASCII tree from a local folder.
 * [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
 * [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
 * [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
