@@ -11,6 +11,7 @@
 * [ActiveN](https://github.com/smourier/ActiveN) - A lightweight framework for building classic COM components and OLE/ActiveX controls in modern fully AOT-compatible .NET, with registration-ready deployment.
 * [AOT Net Com Host](https://github.com/smourier/AotNetComHost) - A development-time "thunk" dll tool that enable COM support (registration, etc.) for not-yet published .NET AOT COM objects for easier debugging.
 * [JS Runtime AOT](https://github.com/smourier/JsRuntimeAot) - A .NET9+ AOT compatible wrapper over the Microsoft "Chakra" JavaScript engine (aka JScript9.dll). => It's just one 2500 lines of C# file that allows you to run Javascript code from .NET.
+* [Windows Task Scheduler AOT](https://github.com/smourier/WindowsTaskSchedulerAot) - A .NET9+ AOT compatible wrapper over the Windows Task Scheduler API.
 
 #### Windows 11 Virtual Camera
 * [VCam Sample](https://github.com/smourier/VCamSample) - A Windows 11 Virtual Camera sample code in C++.
