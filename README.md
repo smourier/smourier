@@ -1,6 +1,6 @@
 ## Some of the projects you can find here:
 
-#### .NET AOT publishing projects
+#### .NET native AOT publishing projects
 
 * [DirectN AOT](https://github.com/smourier/DirectNAOT) - A DirectN (see below) AOT compatible version. Only for .NET Core 9 and beyond.
 * [ShellBat](https://github.com/smourier/ShellBat) - A modern Windows file explorer with file viewers, multi-instance workflows, terminal integration, search capabilities, and deep Windows Shell interoperability.
