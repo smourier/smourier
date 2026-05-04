@@ -20,6 +20,7 @@
 #### .NET Library and Components (Property Grid, etc.)
 * [DirectN](https://github.com/smourier/DirectN) - Direct interop Code for .NET Framework, .NET Core and .NET 5+ : DXGI, WIC, DirectX 9 to 12, Direct2D, Direct Write, Direct Composition, Media Foundation, WASAPI, CodecAPI, GDI, Spatial Audio, DVD, Windows Media Player, UWP DXInterop, WinUI3, etc. This project is legacy, it should only be used if .NET Framework is a target.
 * [SQLNado](https://github.com/smourier/SQLNado) - SQLNado (SQLite Not ADO) is a .NET lightweight bloat-free wrapper and object persistence framework based on SQLite.
+* [HTMLNado](https://github.com/smourier/HtmlNado) - An .NET HTML parser and writer. Provided as single .cs file HtmlNado.cs for easier integration with any .NET C# project.
 * [WinUI3 PropertyGrid](https://github.com/smourier/WinPropertyGrid) - A WinUI3 property grid component.
 * [Wpf PropertyGrid](https://github.com/smourier/WpfPropertyGrid) - A .NET Core 9+ WPF property grid that supports the newer ThemeMode XAML attribute.
 * [Zero-Dep JSON](https://github.com/smourier/ZeroDepJson) - A .NET Json parser in one .cs file, with zero dependencies.
