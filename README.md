@@ -31,6 +31,7 @@
 #### Sample code projects demonstrating something (WinUI3, COM, etc.)
 * [Winforms Sandbox](https://github.com/smourier/WinformsSandbox) - A sample Windows Forms .NET app that hosts the real and only Windows Sandbox.
 * [WinUI3 Windows](https://github.com/smourier/WinUI3Windows) - A WinUI3 application that opens another Xaml window running on another thread.
+* [WinUI3 Ink](https://github.com/smourier/WinUI3Ink) - A sample implementation of an InkCanvas custom control in C# for WinUI3.
 * [Win32 Shows WinUI3](https://github.com/smourier/Win32ShowsWinUI3) - A simple Win32 desktop classic application (in C++) that can show WinUI3 elements (in .NET C#).
 * [WinUI3 Notify Icon](https://github.com/smourier/WinUI3NotifyIcon) - A WinUI3 application that has a notify icon in the system tray. Once the icon in the notification has been clicked, a full WinUI3's Window is displayed.
 * [XPS & PDF Print Samples](https://github.com/smourier/XpsPrintSamples) - XPS and PDF file printing samples.
