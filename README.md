@@ -52,6 +52,7 @@
 * [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
 * [ASCII Folder](https://github.com/smourier/AsciiFolder) - A console tool that generates an ASCII (well, UNICODE in fact) tree from a local folder.
 * [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
+* [Melusyn](https://github.com/smourier/Melusyn) - A command-line tool that generates Mermaid diagrams (as Markdown) from Visual Studio solutions and MSBuild C# projects.
 * [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
 * [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
 * [Auto Close Folder](https://github.com/smourier/AutoCloseFolder) - A Visual Studio extension that automatically closes folders when the last document from it is closed.
