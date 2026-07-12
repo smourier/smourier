@@ -9,6 +9,7 @@
 * [WebView2 AOT](https://github.com/smourier/WebView2Aot) - WebView2 .NET AOT publishing compatible bindings independent from WinForms or WPF.
 * [ActiveN](https://github.com/smourier/ActiveN) - A lightweight framework for building classic COM components and OLE/ActiveX controls in modern fully AOT-compatible .NET, with registration-ready deployment.
 * [AOT Net Com Host](https://github.com/smourier/AotNetComHost) - A development-time "thunk" dll tool that enable COM support (registration, etc.) for not-yet published .NET AOT COM objects for easier debugging.
+* [SQLNado AOT](https://github.com/smourier/SQLNadoAot) - SQLNado (SQLite Not ADO) is a lightweight, bloat-free object-persistence framework for SQLite, the fully NativeAOT and trim-clean evolution of [SQLNado](https://github.com/smourier/SQLNado), rebuilt on .NET 10 with a Roslyn source generator instead of runtime reflection.
 * [JS Runtime AOT](https://github.com/smourier/JsRuntimeAot) - A .NET9+ AOT compatible wrapper over the Microsoft "Chakra" JavaScript engine (aka JScript9.dll). => It's just one 2500 lines of C# file that allows you to run Javascript code from .NET.
 * [Windows Task Scheduler AOT](https://github.com/smourier/WindowsTaskSchedulerAot) - A .NET9+ AOT compatible wrapper over the Windows Task Scheduler API.
 * [Material Skin](https://github.com/smourier/MaterialSkin) - Theming .NET WinForms 10+ to Google's Material Design principles v2, AOT publishing compatible.
