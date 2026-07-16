@@ -3,6 +3,7 @@
 #### .NET native AOT publishing projects
 
 * [DirectN AOT](https://github.com/smourier/DirectNAOT) - A DirectN (see below) AOT compatible version. Only for .NET Core 9 and beyond.
+* [AOTrino](https://github.com/aelyo-softworks/AOTrino) - Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agnostic (React/Fluent UI layers optional).
 * [ShellBat](https://github.com/smourier/ShellBat) - A modern Windows file explorer with file viewers, multi-instance workflows, terminal integration, search capabilities, and deep Windows Shell interoperability.
 * [Wice](https://github.com/aelyo-softworks/Wice) - The "Windows Interface Composition Engine" is a .NET C# UI engine for creating Windows application, for .NET Framework and .NET Core, compatible with AOT publishing.
 * [Wic .NET](https://github.com/smourier/WicNet) - .NET interop classes for WIC (Windows Imaging Component), Direct2D and DirectWrite. With .NET 10+ AOT publishing support.
