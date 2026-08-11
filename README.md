@@ -19,6 +19,26 @@
 * [VCam Sample](https://github.com/smourier/VCamSample) - A Windows 11 Virtual Camera sample code in C++.
 * [VCam .NET Sample](https://github.com/smourier/VCamNetSample) - A Windows 11 Virtual Camera sample code. It's the C# version of VCamSample that uses DirectN for .NET Framework and DirectNAot for .NET Core.
 
+#### Tools
+* [Doxie](https://github.com/smourier/Doxie) - A search engine, local to your machine, focused on source (or textual information) code (based on SQLNado and Lucene .NET).
+* [App Settings Studio](https://github.com/smourier/AppSettingsStudio) - A GUI for centralizing .NET appsettings.json management. Provides a unified view to edit, validate, and apply changes across multiple projects and/or binaries, including WSL on Windows, with support for live updates.
+* [Jump List Explorer](https://github.com/smourier/JumpListExplorer) - A (forensics) tool to view and remove Windows JumpLists.
+* [Device Explorer](https://github.com/smourier/DeviceExplorer) - A tool that displays the hardware attached to a Windows computer, similar to Device Manager. It also shows Association EndPoints dynamically (Bluetooth endpoints, UPnP, etc.) and Bluetooth LE advertisements.
+* [Trace Spy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
+* [Traces To CSV](https://github.com/smourier/TracesToCsv) - An ASP.NET Core app that continuously digest traces sent from HTTP(S) clients and creates csv files from them.
+* [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
+* [ASCII Folder](https://github.com/smourier/AsciiFolder) - A console tool that generates an ASCII (well, UNICODE in fact) tree from a local folder.
+* [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
+* [Melusyn](https://github.com/smourier/Melusyn) - A command-line tool that generates Mermaid diagrams (as Markdown) from Visual Studio solutions and MSBuild C# projects.
+* [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
+* [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
+* [Auto Close Folder](https://github.com/smourier/AutoCloseFolder) - A Visual Studio extension that automatically closes folders when the last document from it is closed.
+* [Binding Redirect Generator](https://github.com/smourier/BindingRedirectGenerator) - A tool to generate binding redirects from assemblies in a given path (for .NET Framework).
+* [Normalize Line Endings](https://github.com/smourier/NormalizeLineEndings) - A tool to normalize files line ending.
+* [VIM 2 VHD](https://github.com/smourier/VIM2VHD) - Pure C# version of VIM2VHD.
+* [PDF Text Mask](https://github.com/smourier/PdfTextMask) - A C# tool to mask (and destroy from original text) portions of text in a document.
+* [D3D12 SDK Version Patcher](https://github.com/smourier/D3D12SDKVersionPatcher) - A tool that can patch a .exe file exports to enabled DirectX 12 Agility SDK versioning
+
 #### .NET Library and Components (Property Grid, etc.)
 * [DirectN](https://github.com/smourier/DirectN) - Direct interop Code for .NET Framework, .NET Core and .NET 5+ : DXGI, WIC, DirectX 9 to 12, Direct2D, Direct Write, Direct Composition, Media Foundation, WASAPI, CodecAPI, GDI, Spatial Audio, DVD, Windows Media Player, UWP DXInterop, WinUI3, etc. This project is legacy, it should only be used if .NET Framework is a target.
 * [SQLNado](https://github.com/smourier/SQLNado) - SQLNado (SQLite Not ADO) is a .NET lightweight bloat-free wrapper and object persistence framework based on SQLite.
@@ -43,23 +63,3 @@
 * [Reg-free .NET COM Server](https://github.com/smourier/RegfreeNetComServer) - A .NET 10+ registry-free Out-Of-Process COM server that also demonstrates 32-64 bit communication.
 * [Out-Of-Process COM Server](https://github.com/smourier/OutOfProcessCOMServer) - An ATL C++ Out-Of-Process COM server and clients (C++, .NET, VBscript) sample.
 * [MF Decode H264](https://github.com/smourier/MFDecodeH264) - A C++ console application code that decodes an H264 raw file using Media Foundation's H.264 Video Decoder.
-
-#### Tools
-* [Doxie](https://github.com/smourier/Doxie) - A search engine, local to your machine, focused on source (or textual information) code (based on SQLNado and Lucene .NET).
-* [App Settings Studio](https://github.com/smourier/AppSettingsStudio) - A GUI for centralizing .NET appsettings.json management. Provides a unified view to edit, validate, and apply changes across multiple projects and/or binaries, including WSL on Windows, with support for live updates.
-* [Jump List Explorer](https://github.com/smourier/JumpListExplorer) - A (forensics) tool to view and remove Windows JumpLists.
-* [Device Explorer](https://github.com/smourier/DeviceExplorer) - A tool that displays the hardware attached to a Windows computer, similar to Device Manager. It also shows Association EndPoints dynamically (Bluetooth endpoints, UPnP, etc.) and Bluetooth LE advertisements.
-* [Trace Spy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
-* [Traces To CSV](https://github.com/smourier/TracesToCsv) - An ASP.NET Core app that continuously digest traces sent from HTTP(S) clients and creates csv files from them.
-* [Raw Input Reader](https://github.com/smourier/RawInputReader) - A tool to read raw input from mouse, keyboard, or other hid devices.
-* [ASCII Folder](https://github.com/smourier/AsciiFolder) - A console tool that generates an ASCII (well, UNICODE in fact) tree from a local folder.
-* [CSharp Merge](https://github.com/smourier/CSharpMerge) - A console utility to merge .cs source files from a directory into one unique .cs file. Uses Roslyn.
-* [Melusyn](https://github.com/smourier/Melusyn) - A command-line tool that generates Mermaid diagrams (as Markdown) from Visual Studio solutions and MSBuild C# projects.
-* [Time Zone Changer](https://github.com/smourier/TimeZoneChanger) - A .NET apphost that runs in a custom time zone. Useful for testing apps in different time zones w/o rebooting nor changing Windows time zone.
-* [Time Traveler](https://github.com/smourier/TimeTraveler) - A tool that runs any .NET executable in a parallel world, where time is not the same.
-* [Auto Close Folder](https://github.com/smourier/AutoCloseFolder) - A Visual Studio extension that automatically closes folders when the last document from it is closed.
-* [Binding Redirect Generator](https://github.com/smourier/BindingRedirectGenerator) - A tool to generate binding redirects from assemblies in a given path (for .NET Framework).
-* [Normalize Line Endings](https://github.com/smourier/NormalizeLineEndings) - A tool to normalize files line ending.
-* [VIM 2 VHD](https://github.com/smourier/VIM2VHD) - Pure C# version of VIM2VHD.
-* [PDF Text Mask](https://github.com/smourier/PdfTextMask) - A C# tool to mask (and destroy from original text) portions of text in a document.
-* [D3D12 SDK Version Patcher](https://github.com/smourier/D3D12SDKVersionPatcher) - A tool that can patch a .exe file exports to enabled DirectX 12 Agility SDK versioning
