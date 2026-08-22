@@ -71,7 +71,7 @@ Windows apps published by **[Aelyo Softworks](https://www.aelyo.com)**, all Nati
 
 | | | |
 |---|---|---|
-| **[Markup Pad](https://www.aelyo.com/MarkupPad/MarkupPad.html)** | Monaco-based editor for XML, JSON and Markdown, with Mermaid preview — free — **100% free** | [Store](https://apps.microsoft.com/detail/9PLB453K4P6Q) |
+| **[Markup Pad](https://www.aelyo.com/MarkupPad/MarkupPad.html)** | Monaco-based editor for XML, JSON and Markdown, with Mermaid preview — **100% free** | [Store](https://apps.microsoft.com/detail/9PLB453K4P6Q) |
 | **[PCB Explorer Preview](https://www.aelyo.com/PCBExplorer/PCBExplorerPreview.html)** | Gerber, Excellon and PCB fabrication files, in 2D and 3D | [Store](https://apps.microsoft.com/detail/9PHBBFGJX3Q0) |
 | **[CAD Explorer Preview](https://www.aelyo.com/CADExplorer/CADExplorerPreview.html)** | DWG and DXF drawings | [Store](https://apps.microsoft.com/detail/9P53RGN3WJH9) |
 | **[JPEG 2000 Explorer Preview](https://www.aelyo.com/JPEG2000Explorer/JPEG2000ExplorerPreview.html)** | JP2, J2K and HTJ2K, including very large images | [Store](https://apps.microsoft.com/detail/9PBFB3XF6PJG) |
