@@ -64,3 +64,18 @@
 * [Reg-free .NET COM Server](https://github.com/smourier/RegfreeNetComServer) - A .NET 10+ registry-free Out-Of-Process COM server that also demonstrates 32-64 bit communication.
 * [Out-Of-Process COM Server](https://github.com/smourier/OutOfProcessCOMServer) - An ATL C++ Out-Of-Process COM server and clients (C++, .NET, VBscript) sample.
 * [MF Decode H264](https://github.com/smourier/MFDecodeH264) - A C++ console application code that decodes an H264 raw file using Media Foundation's H.264 Video Decoder.
+
+## Products
+
+Windows apps published by **[Aelyo Softworks](https://www.aelyo.com)**, all NativeAOT, and built on the libraries above.
+
+| | | |
+|---|---|---|
+| **[Markup Pad](https://www.aelyo.com/MarkupPad/MarkupPad.html)** | Monaco-based editor for XML, JSON and Markdown, with Mermaid preview — free — **100% free** | [Store](https://apps.microsoft.com/detail/9PLB453K4P6Q) |
+| **[PCB Explorer Preview](https://www.aelyo.com/PCBExplorer/PCBExplorerPreview.html)** | Gerber, Excellon and PCB fabrication files, in 2D and 3D | [Store](https://apps.microsoft.com/detail/9PHBBFGJX3Q0) |
+| **[CAD Explorer Preview](https://www.aelyo.com/CADExplorer/CADExplorerPreview.html)** | DWG and DXF drawings | [Store](https://apps.microsoft.com/detail/9P53RGN3WJH9) |
+| **[JPEG 2000 Explorer Preview](https://www.aelyo.com/JPEG2000Explorer/JPEG2000ExplorerPreview.html)** | JP2, J2K and HTJ2K, including very large images | [Store](https://apps.microsoft.com/detail/9PBFB3XF6PJG) |
+| **[SVG Explorer Preview](https://www.aelyo.com/SVGExplorer/SVGExplorerPreview.html)** | SVG, with conversion to raster formats | [Store](https://apps.microsoft.com/detail/9MZD357J4FR6) |
+| **[Automatic Pixel Ruler](https://www.aelyo.com/PixRuler/AutomaticPixelRuler.html)** | Measures rectangles on screen, detecting their edges automatically | [Store](https://apps.microsoft.com/detail/9NR8MSHJR7RC) |
+
+The four *Explorer Preview* apps add thumbnails, preview and file details to Windows Explorer for formats it doesn't handle natively.
