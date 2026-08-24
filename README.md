@@ -4,6 +4,7 @@
 
 * [AOTrino](https://github.com/aelyo-softworks/AOTrino) - Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agnostic (React/Fluent UI layers optional).
 * [Filociraptor](https://github.com/smourier/Filociraptor) - A fast Windows file manager written in C#, rendered with Direct2D and compiled with AOT. GPU drawn, fully virtualized and allocation free on the hot path, so folders with thousands of files open and scroll instantly.
+* [tabsh](https://github.com/smourier/tabsh) - A Windows command shell where TAB navigates the file system and Windows shell namespace instead of merely listing it. Runs under Windows Terminal exactly like any other shell. Supports Windows 7, x86, x64 and ARM64.
 * [DirectN AOT](https://github.com/smourier/DirectNAOT) - A DirectN (see below) AOT compatible version. Only for .NET Core 9 and beyond.
 * [ShellBat and ShellN](https://github.com/smourier/ShellBat) - A modern Windows file explorer with file viewers, multi-instance workflows, terminal integration, search capabilities, and deep Windows Shell interoperability. Solution also contains ShellN, .NET interop classes for Windows Shell APIS with full AOT publishing support
 * [Wice](https://github.com/aelyo-softworks/Wice) - The "Windows Interface Composition Engine" is a .NET C# UI engine for creating Windows application, for .NET Framework and .NET Core, compatible with AOT publishing.
