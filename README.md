@@ -3,7 +3,7 @@
 #### .NET native AOT publishing projects
 
 * [AOTrino](https://github.com/aelyo-softworks/AOTrino) - Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agnostic (React/Fluent UI layers optional).
-* [Treemapolis](https://github.com/smourier/Treemapolis) - Treemapolis turns the Windows shell namespace into a 3D treemap: every folder is a slab, every file a building as big as it weighs on disk. It is a technology demo of DirectX 12 driven from C# and .NET NativeAOT, and it is also a genuinely fast disk space explorer.
+* [Treemapolis](https://github.com/smourier/Treemapolis) - Turns the Windows shell namespace into a 3D treemap: every folder is a slab, every file a building as big as it weighs on disk. It is a technology demo of DirectX 12 driven from C# and .NET NativeAOT, and it is also a genuinely fast disk space explorer.
 * [Filociraptor](https://github.com/smourier/Filociraptor) - A fast Windows file manager written in C#, rendered with Direct2D and compiled with AOT. GPU drawn, fully virtualized and allocation free on the hot path, so folders with thousands of files open and scroll instantly.
 * [tabsh](https://github.com/smourier/tabsh) - A Windows command shell where TAB navigates the file system and Windows shell namespace instead of merely listing it. Runs under Windows Terminal exactly like any other shell. Supports Windows 7, x86, x64 and ARM64.
 * [DirectN AOT](https://github.com/smourier/DirectNAOT) - A DirectN (see below) AOT compatible version. Only for .NET Core 9 and beyond.
