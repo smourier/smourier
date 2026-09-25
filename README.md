@@ -81,7 +81,7 @@ Windows apps published by **[Aelyo Softworks](https://www.aelyo.com)**, all Nati
 | **[CAD Explorer Preview](https://www.aelyo.com/CADExplorer/CADExplorerPreview.html)** | DWG and DXF drawings | [Store](https://apps.microsoft.com/detail/9P53RGN3WJH9) |
 | **[JPEG 2000 Explorer Preview](https://www.aelyo.com/JPEG2000Explorer/JPEG2000ExplorerPreview.html)** | JP2, J2K and HTJ2K, including very large images | [Store](https://apps.microsoft.com/detail/9PBFB3XF6PJG) |
 | **[SVG Explorer Preview](https://www.aelyo.com/SVGExplorer/SVGExplorerPreview.html)** | SVG, with conversion to raster formats | [Store](https://apps.microsoft.com/detail/9MZD357J4FR6) |
-| **[Embroidery Explore Preview](https://www.aelyo.com/EmbroideryExplorer/EmbroideryExplorerPreview.html)** | PES, DST, JEF, EXP, VP3, HUS, VIP, XXX and more than thirty other machine embroidery formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9NK7FSWD2HMB) |
+| **[Embroidery Explorer Preview](https://www.aelyo.com/EmbroideryExplorer/EmbroideryExplorerPreview.html)** | PES, DST, JEF, EXP, VP3, HUS, VIP, XXX and more than thirty other machine embroidery formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9NK7FSWD2HMB) |
 | **[Automatic Pixel Ruler](https://www.aelyo.com/PixRuler/AutomaticPixelRuler.html)** | Measures rectangles on screen, detecting their edges automatically | [Store](https://apps.microsoft.com/detail/9NR8MSHJR7RC) |
 
 The *Explorer Preview* apps add thumbnails, preview and file details to Windows Explorer for formats it doesn't handle natively.
