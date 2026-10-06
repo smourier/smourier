@@ -75,13 +75,14 @@ Windows apps published by **[Aelyo Softworks](https://www.aelyo.com)**, all Nati
 |---|---|---|
 | **[Markup Pad](https://www.aelyo.com/MarkupPad/MarkupPad.html)** | Monaco-based editor for XML, JSON and Markdown, with Mermaid preview — **100% free** | [Store](https://apps.microsoft.com/detail/9PLB453K4P6Q) |
 | **[Code Contour](https://www.aelyo.com/CodeContour/CodeContour.html)** | Code Contour measures the shape of your source code, reads every file, 81 languages, reporting lines, comments, methods, complexity and maintainability, chart, churn, exports — **freemium** | [Store](https://apps.microsoft.com/detail/9P7P9G1F26JV) |
+| **[Automatic Pixel Ruler](https://www.aelyo.com/PixRuler/AutomaticPixelRuler.html)** | Measures rectangles on screen, detecting their edges automatically | [Store](https://apps.microsoft.com/detail/9NR8MSHJR7RC) |
 | **[STEP Explorer Preview](https://www.aelyo.com/STEPExplorer/STEPExplorerPreview.html)** | STEP Explorer adds native STEP and IGES support to Windows Explorer  | [Store](https://apps.microsoft.com/detail/9NPK0HLHFZ09) |
+| **[PSD Explorer Preview](https://www.aelyo.com/PSDExplorer/PSDExplorerPreview.html)** | PSD Explorer adds native PSD, PSB, Clip Studio Paint, Affinity, Krita, and OpenRaster files support to Windows Explorer  | [Store](https://apps.microsoft.com/detail/9P953BZDL1SV) |
 | **[3D Explorer Preview](https://www.aelyo.com/3DExplorer/3DExplorerPreview.html)** | 3D Explorer adds native STL, OBJ, PLY, 3MF, glTF, FBX and G-code support to Windows Explorer  | [Store](https://apps.microsoft.com/detail/9NZHBD6KG2C1) |
 | **[PCB Explorer Preview](https://www.aelyo.com/PCBExplorer/PCBExplorerPreview.html)** | Gerber, Excellon and PCB fabrication files, in 2D and 3D | [Store](https://apps.microsoft.com/detail/9PHBBFGJX3Q0) |
 | **[CAD Explorer Preview](https://www.aelyo.com/CADExplorer/CADExplorerPreview.html)** | DWG and DXF drawings | [Store](https://apps.microsoft.com/detail/9P53RGN3WJH9) |
 | **[JPEG 2000 Explorer Preview](https://www.aelyo.com/JPEG2000Explorer/JPEG2000ExplorerPreview.html)** | JP2, J2K and HTJ2K, including very large images | [Store](https://apps.microsoft.com/detail/9PBFB3XF6PJG) |
 | **[SVG Explorer Preview](https://www.aelyo.com/SVGExplorer/SVGExplorerPreview.html)** | SVG, with conversion to raster formats | [Store](https://apps.microsoft.com/detail/9MZD357J4FR6) |
 | **[Embroidery Explorer Preview](https://www.aelyo.com/EmbroideryExplorer/EmbroideryExplorerPreview.html)** | PES, DST, JEF, EXP, VP3, HUS, VIP, XXX and more than thirty other machine embroidery formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9NK7FSWD2HMB) |
-| **[Automatic Pixel Ruler](https://www.aelyo.com/PixRuler/AutomaticPixelRuler.html)** | Measures rectangles on screen, detecting their edges automatically | [Store](https://apps.microsoft.com/detail/9NR8MSHJR7RC) |
 
 The *Explorer Preview* apps add thumbnails, preview and file details to Windows Explorer for formats it doesn't handle natively.
