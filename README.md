@@ -48,7 +48,7 @@
 * [HTMLNado](https://github.com/smourier/HtmlNado) - An .NET HTML parser and writer. Provided as single .cs file HtmlNado.cs for easier integration with any .NET C# project.
 * [WinUI3 PropertyGrid](https://github.com/smourier/WinPropertyGrid) - A WinUI3 property grid component.
 * [Wpf PropertyGrid](https://github.com/smourier/WpfPropertyGrid) - A .NET Core 9+ WPF property grid that supports the newer ThemeMode XAML attribute.
-* [Zero-Dep JSON](https://github.com/smourier/ZeroDepJson) - A .NET Json parser in one .cs file, with zero dependencies.
+* [Zero-Dep JSON](https://github.com/smourier/ZeroDepJson) - A versatile .NET Json parser in only one .cs file, with zero dependencies, supporting .NET Framework's 4.8 as well as .NET Core.
 * [ProxyServer](https://github.com/smourier/ProxyServer) - A simple proxy server written in C#.
 * [Sheet Reader](https://github.com/smourier/SheetReader) - A simple CSV, XLSX or JSON data sheet reader, and a WPF Sheet Control to display the tabular data.
 * [Futese](https://github.com/smourier/Futese) - A simple in-memory persistable full text search engine in less than 1000 lines of C# code.
