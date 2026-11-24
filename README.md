@@ -87,5 +87,6 @@ Windows apps published by **[Aelyo Softworks](https://www.aelyo.com)**, all Nati
 | **[SVG Explorer Preview](https://www.aelyo.com/SVGExplorer/SVGExplorerPreview.html)** | Adds SVG, with conversion to raster formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9MZD357J4FR6?cid=smo-github) |
 | **[FITS Explorer Preview](https://aelyo.azurewebsites.net/FITSExplorer/FITSExplorerPreview.html)** | Adds FITS, XISF and SER formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9N4MRCXNWZN7?cid=smo-github) |
 | **[Embroidery Explorer Preview](https://www.aelyo.com/EmbroideryExplorer/EmbroideryExplorerPreview.html)** | Adds PES, DST, JEF, EXP, VP3, HUS, VIP, XXX and more than thirty other machine embroidery formats to Windows Explorer | [Store](https://apps.microsoft.com/detail/9NK7FSWD2HMB?cid=smo-github) |
+| **[DICOM Explorer Preview](https://www.aelyo.com/DICOMExplorer/DICOMExplorerPreview.html)** | Draws CT, MR, X-ray, ultrasound and other DICOM images in Windows File Explorer, as thumbnails,  preview pane with more than 70 Details columns | [Store](https://apps.microsoft.com/detail/9PFX5ZHCVWPF?cid=smo-github) |
 
 The *Explorer Preview* apps add thumbnails, preview and file details to Windows Explorer for formats it doesn't handle natively.
